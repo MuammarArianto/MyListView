@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyListView</string>
+    <string name="name_heroes">Nama Pahlawan</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+    <string-array name="data_name">
+        <item>Ahmad Dahlan</item>
+        <item>Ahmad Yani</item>
+        <item>Sutomo</item>
+        <item>Gatot Soebroto</item>
+        <item>Ki Hadjar Dewantarai</item>
+</resources>
